@@ -1,0 +1,56 @@
+@media (min-width: 200px) and (max-width: 410px){
+    .header {
+        min-height: 70vh !important;
+    }
+    .top-header {
+        display: none !important;
+    }
+      .navbar-light .navbar-brand img {
+        width: 150px !important;
+    }
+    .banner .banner-caption h5 {
+        margin-bottom: 20px !important;
+        padding: 7px !important;
+        border: 1px dashed #3d2514 !important;
+        font-size: 12px;
+    }
+      .inner-banner-left {
+        min-height: 55vh !important;
+    }
+    .banner .inner-banner-right {
+        display: none !important;
+    }
+    .banner{
+       margin-top: 40 !important;
+      
+    }
+    .feature {
+        padding: 0px 0px !important;
+    }
+    .inner-feature-left {
+        margin-bottom: 15px;
+    }
+    .inner-feature-left .feature-text a h3{
+        font-size: 18px !important;
+    }
+    .inner-feature-left .feature-text a h1{
+        font-size: 35px !important;
+    }
+    .inner-feature-right .feature-text a h3{
+        font-size: 12px;
+    }
+    .inner-feature-right .feature-text a h1{
+        font-size: 15px;
+    }
+    .inner-feature-right {
+        margin-bottom: 15px !important;
+    }
+    .choose {
+        padding: 40px 0 !important;
+    }
+
+
+
+
+
+}
